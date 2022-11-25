@@ -18,7 +18,7 @@ I'm a Backend Developer with more than 10 years of experience crafting applicati
 
 I really like to lead teams, build confidence and help others to grow! 🌱
 
-Proven record of success with different types of customers covering areas like aircraft maintenance, telecommunications, banking, e-commerce, attraction parks and travels, evaluated as a key player and positive person, work performed successfully in a multicultural environment.
+Proven record of success with different types of customers covering areas like aircraft maintenance, telecommunications, banking, e-commerce, attraction parks and travel, evaluated as a key player and positive person, work performed successfully in a multicultural environment.
 
 Experienced in:
 - Development of large and complex enterprise web solutions.
