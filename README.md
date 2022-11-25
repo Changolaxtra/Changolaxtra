@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Lead Software Engineer at EPAM Systems!
+I'm a Lead Software Engineer at EPAM Systems! 🇲🇽
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/daniel-rojas/">
@@ -8,9 +8,9 @@ I'm a Lead Software Engineer at EPAM Systems!
 </div>
 
 And I'm doing some extra stuff like:
-- Certified Technical Interviewer 🏅
-- Java Mentor 🧑‍🏫
-- EngX Mentor 💫Design
+- 🏅 Certified Technical Interviewer 
+- 👨‍🏫 Java Mentor
+- 💫 EngX Mentor
 
 To give you more details: 
 
@@ -26,7 +26,7 @@ Experienced in:
 
 Strength 💪 : Curious and proactive to work with new technologies, self-organized, easy to teach others and focused on success.
 
-### Certifications :
+### 🎓 Certifications :
 <div>
   <a href="https://www.credly.com/badges/621e2f38-235e-4dd1-842b-f58af304c33d">
     <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" title="AWS Certified Developer – Associate" alt="AWS Certified Developer – Associate" width="140" height="140"/>
