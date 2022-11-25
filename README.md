@@ -26,6 +26,15 @@ Experienced in:
 
 Strength 💪 : Curious and proactive to work with new technologies, self-organized, easy to teach others and focused on success.
 
+### Certifications :
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/621e2f38-235e-4dd1-842b-f58af304c33d?source=linked_in_profile)
+- [GCP Associate Cloud Engineer](https://www.credential.net/dd5ad3c5-90e5-42db-966d-10143efe8b5a)
+
+<div>
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" title="AWS Certified Developer – Associate" alt="AWS Certified Developer – Associate" width="120" height="120"/>&nbsp;
+  <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" title="GCP Associate Cloud Engineer" alt="GCP Associate Cloud Engineer" width="120" height="120"/>&nbsp;
+  </div>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
