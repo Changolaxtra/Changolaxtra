@@ -23,8 +23,7 @@ Proven record of success with different types of customers covering areas like a
 Experienced in 🚀 :
 - Development of large and complex enterprise web solutions.
 - Code Standards, Refactoring and best practices.
-- Migrations
-- System Design
+- System Design and Migrations
 
 Strength 💪 : Curious and proactive to work with new technologies, self-organized, easy to teach others and focused on success.
 
