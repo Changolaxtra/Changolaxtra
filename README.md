@@ -42,3 +42,6 @@ Strength 💪 : Curious and proactive to work with new technologies, self-organi
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+### My Online Resources:
+- 🎥 [Menos Config, Más Código (Less config, more code)](https://www.youtube.com/watch?v=xLZurD0hwl8)
