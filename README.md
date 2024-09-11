@@ -29,6 +29,9 @@ Strength 💪 : Curious and proactive to work with new technologies, self-organi
 
 ### 🎓 Certifications :
 <div>
+    <a href="https://www.credly.com/badges/f63357a7-3fc6-468f-bbd3-b95bc60183ec">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate" width="140" height="140"/>
+  </a>&nbsp;
   <a href="https://www.credly.com/badges/621e2f38-235e-4dd1-842b-f58af304c33d">
     <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" title="AWS Certified Developer – Associate" alt="AWS Certified Developer – Associate" width="140" height="140"/>
   </a>&nbsp;
@@ -42,7 +45,7 @@ Strength 💪 : Curious and proactive to work with new technologies, self-organi
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain.svg" title="Gatling" alt="Gatling" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-original.svg" title="Gatling" alt="Gatling" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
