@@ -14,7 +14,7 @@ And I'm doing some extra stuff like:
 
 To give you more details: 
 
-I'm a Backend Developer with more than 10 years of experience crafting applications with Java and some other technologies like NodeJS, Python and a little bit of Angular, passioned about software architecture, clean code and clean design!
+I'm a Backend Developer with more than 14 years of experience crafting applications with Java and some other technologies like NodeJS, Python and a little bit of Angular, passioned about software architecture, clean code and clean design!
 
 I really like to lead teams, build confidence and help others to grow! 🌱
 
